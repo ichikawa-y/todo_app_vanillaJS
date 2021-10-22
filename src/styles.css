@@ -2,6 +2,11 @@ body {
   font-family: sans-serif;
 }
 
+h1 {
+  padding: 4px;
+  margin: 4px;
+}
+
 .input-area {
   background-color: #c1ffff;
   width: 400px;
@@ -59,4 +64,5 @@ button:hover {
 .list-row {
   display: flex;
   align-items: center;
+  padding: 4px;
 }
